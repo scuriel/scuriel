@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scuriel
+- 👋 Hi, I’m Salvador Curiel III
 - 👀 I’m interested in data science and using Github for it.
 - 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate in the future as a Data Scientist.
